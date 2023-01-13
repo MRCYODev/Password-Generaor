@@ -1,7 +1,7 @@
 import random
 
 # List of possible characters for the password
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=[]{}|;':\"<>,.?/"
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZαβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ0123456789!@#$€%^&*()_+-=[]{}|;':\"<>,.?/"
 
 # Ask the user how long they want their password to be
 length = int(input("Enter the length of the password: "))
