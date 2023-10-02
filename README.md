@@ -12,7 +12,6 @@
 <ul>
   <li>Greek Uppercase</li>
   <li>Greek Lowercase</li>
-  <li>Greek Symbols</li>
 </ul>
 
 
